@@ -9,8 +9,10 @@ This example shows different parts of the git repositories and how they work tog
 
 
 #Purpose
+As above mentioned, the main purpose is to provide simple examples for github training.
 
 #Deployment
+All about Deployment on of Git Projects...
 
 #How to Contribute
 
