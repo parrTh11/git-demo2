@@ -2,6 +2,7 @@
 all about demo sessions on git
 
 #Starter Web Project
+This is a simple tutorial for how to use git and github together.
 
 #Introduction
 
