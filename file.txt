@@ -2,3 +2,6 @@ file.txt
 
 
 Changes from newBranch
+
+
+Changes from MainBranch
